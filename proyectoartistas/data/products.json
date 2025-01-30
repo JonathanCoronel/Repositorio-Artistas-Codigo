@@ -1,0 +1,68 @@
+{
+  "Murales": [
+    {
+      "url": "https://www.enelgreenpower.com/content/dam/enel-egp/immagini/articoli/storie/proyecto-murales-mexico_2400x1160.jpg",
+      "title": "Mural in Mexico",
+      "description": "Mural in Mexico",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuhRr8hYFGlEb7fEZsHs7GBFBOimlQnYDNg4yzTgAC4WRvIZLLobQ8d1mAj5sd8OjNphGsQV24KKVA2akc5BIDFKFsDdp_ps9CLJZZ5wg",
+      "title": "Starry Night by Van Gogh",
+      "description": "Starry Night by Van Gogh",
+      "autor": "Andres Socoto"
+    }
+  ],
+  "Pinturas a mano": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAeo-4FyfIvey1sN66TbtYE7MCGTOD5vk79A&s",
+      "title": "Pintura de Leonarno Da Vinci ",
+      "description": "Pintura de Leonarno Da Vinci ",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://m.media-amazon.com/images/I/91vlqe1Fk4L.jpg",
+      "title": "Dios y Hombre",
+      "description": "Dios y Hombre",
+      "autor": "Andres Socoto"
+    }
+  ],
+  "Prendas de vestir": [
+    {
+      "url": "https://media.gq.com.mx/photos/62ce376befcf64a2cb5bce78/1:1/w_2000,h_2000,c_limit/marcas-de-moda-masculina.jpg",
+      "title": "Coleccion Channel 2022",
+      "description": "Explora la elegancia moderna con esta exclusiva colección de Chanel. Inspirada en la sofisticación y los detalles únicos.",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://www.chio-lecca.edu.pe/cdn/shop/articles/chio-lecca-blog-prendas-de-vestir.jpg?v=1709925816",
+      "title": "Coleccion Zara 2020",
+      "description": "Descubre diseños innovadores y estilos versátiles de Zara. Una fusión perfecta de moda y comodidad.",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://th.bing.com/th/id/OIP.gKuFuB-xmNQGC99UXi-2vAHaJ4?rs=1&pid=ImgDetMain",
+      "title": "Chompa de Hombre",
+      "description": "Ideal para días fríos, esta chompa combina estilo casual y confort. Perfecta para cualquier ocasión.",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://cdn.acelerala.com/files/uploads/776/1655169446-79-4-jpg.jpg",
+      "title": "Chompa de Mujer",
+      "description": "Una prenda esencial para el guardarropa femenino. Estilo y calidez para lucir siempre a la moda.",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://d2r9epyceweg5n.cloudfront.net/stores/723/267/products/whatsapp-image-2022-09-20-at-09-29-091-e1dd6a8a4c3bbd495616636773080158-1024-1024.jpeg",
+      "title": "Gorra Deportiva",
+      "description": "Mantén tu estilo activo con esta gorra deportiva. Un accesorio imprescindible para el día a día.",
+      "autor": "Andres Socoto"
+    },
+    {
+      "url": "https://th.bing.com/th/id/OIP.46sxb6CUUZAjZiamm_pr3wHaHa?rs=1&pid=ImgDetMain",
+      "title": "Camiseta Personalizada",
+      "description": "Añade un toque único con esta camiseta personalizada. Diseños exclusivos que reflejan tu personalidad",
+      "autor": "Andres"
+    }
+  ]
+}
